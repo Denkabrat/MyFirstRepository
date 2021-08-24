@@ -1,0 +1,19 @@
+Html
+Css
+JavaScript 
+
+React/Vue/angular
+Css Framework / library 
+
+NodeJS / express
+Security 
+MongoDB or MySQL/PostgreSQL
+REST / Basic HTTP/Application Layer Logic
+
+Move on to another backend language (python or Java) and a web framework for the respective (django/flask or Spring)
+
+System design / web architecture and systems 
+
+Testing 
+
+This is how the fullstsck undergrad and masters courses I took at my university were structured and how I’d recommend someone learn. As Tiff said, html/css then JS then a library/framework for JS then backend and so forth
